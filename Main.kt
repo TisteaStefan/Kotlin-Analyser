@@ -24,6 +24,5 @@ fun main(args: Array<String>){
     writeToFile(file2, "[ "+serializer.writeValueAsString(e.err)+" ]")
 }
     
-    //creez une instance de l'analyseur et appelez la fonction d'analyse
 
 }
